@@ -1,6 +1,6 @@
 ###workflow.js
-A clean, composable way to manipulate sequences of values with asynchronous functions.
-Multi fork tree structure is recommended;
+*A clean, composable way to manipulate sequences of values with asynchronous functions.
+Multi fork tree structure is recommended*
 
 Dealing with control flow in heavily asynchronous code can be a big challange. Without any helper functions the code can easily degenerate into a christmas tree shape because of the callback of a callback of a callback syndrome.
 
