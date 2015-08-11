@@ -1,0 +1,17 @@
+{ 
+    "name": "asyncjs",
+    "description": "workflowjs is general module for Node&AMDjs&Browser ",
+    "version": "1.0.0",
+    "homepage" : "https://github.com/charlescc/workflow.js",
+    "engines": {"node": ">= 0.4.0"},
+    "author": "charlescc <yifan.cc@alibaba-inc.com>",
+    "main": "index",
+    "repository" : {
+        "type" : "git",
+         "url" : "https://github.com/charlescc/workflow.js.git"
+    },
+    "licenses": [{
+        "type": "The MIT License",
+        "url": "http://www.opensource.org/licenses/mit-license.php"}
+    ]
+}
